@@ -14,14 +14,14 @@
 class grok {
 
 
-	package {
-		"grok":
-			ensure => installed;
-		"rubygem-cabin":
-			ensure => installed;
-		"rubygem-jls-grok":
-			ensure => installed;
-		
-	}
+  package {
+    'grok':
+      ensure => installed;
+    'rubygem-cabin':
+      ensure => installed;
+    'rubygem-jls-grok':
+      ensure => installed;
+
+  }
 
 }
