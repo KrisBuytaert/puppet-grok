@@ -1,3 +1,9 @@
 grok
 
 This is the grok module.
+
+This module is completely outdated and considered deprecated.
+
+In addition to that it only contains 3 packages, which should be managed inside a profile.
+
+
